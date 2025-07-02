@@ -45,7 +45,8 @@ Meanwhile, the OLED graphically shows the waveform, emulating an oscilloscope.
 
 ## 📸 Demo
 
-> *(You can add an image or video of the screen and circuit working here.)*
+(https://github.com/user-attachments/assets/fc755bd6-5f61-4c8f-87f8-1b33930f498c)
+
 
 ## 🪪 License
 
